@@ -6,7 +6,7 @@ Battle Kart dynamic NFTs on NEAR blockchain.
 ![Battle Areba](https://i.ibb.co/fnZgbYj/Screenshot-from-2023-06-03-16-17-02.png)
 
 ## Demo App:
- https://near-karts.web.app/
+ https://braykart.vercel.app/
 
 ## Concept
 

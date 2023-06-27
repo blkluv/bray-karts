@@ -1,5 +1,5 @@
 const text_consts = {
-  "app_name": "NEAR Karts",
+  "app_name": "Bray Kart",
   "nft_name": "NEAR Kart",
   "nft_short_name": "Kart",
   "blockchain_name": "NEAR",

@@ -502,15 +502,15 @@ function App() {
     let ui = (
       <div className='br-intro-panel'>
         <div className='br-intro'>
-          <div className='br-intro-section'>Humanity is in peril</div>
+          <div className='br-intro-section'>Tribes inspire, build, and own</div>
           <div className='br-intro-section'>
-            Many disagreements are reported
+            a thrilling 3D skill-based racing battle game.
           </div>
           <div className='br-intro-section'>
-            To settle this we will battle... in NEAR Karts!
+            A-sport game built on a gaming Blockchain platform,
           </div>
           <div className='br-intro-section'>
-            Own your Karts. Win your battles. Humanity will be saved.
+            by Bray Games. Battle, level up and win rewards.
           </div>
         </div>
         <Fragment>
@@ -523,7 +523,7 @@ function App() {
         </Fragment>
         <div className='br-front-screen-image'></div>
         <div className='br-intro-section'>
-          NEAR Karts are NFTs on the NEAR Blockchain
+          Bray Kart are NFTs on the NEAR Blockchain
         </div>
       </div>
     );
@@ -772,10 +772,10 @@ function App() {
           onAfterOpen={afterOpenModal}
           onRequestClose={closeModal}
           style={customStyles}
-          contentLabel='NEAR Karts'
+          contentLabel='Bray Kart'
         >
           <div className='br-modal-title'>
-            <h2 className='br-modal-heading'>NEAR Karts</h2>
+            <h2 className='br-modal-heading'>Bray Kart</h2>
             <div className='br-modal-close'>
               <BrButton
                 label={<i className='fas fa-times-circle' />}
@@ -796,7 +796,7 @@ function App() {
           isOpen={showingHighScores}
           onRequestClose={closeHighScoreModal}
           style={customStyles}
-          contentLabel='NEAR Karts Leaderboard'
+          contentLabel='Bray Kart Leaderboard'
           appElement={document.getElementById('root')}
         >
           <div className='br-modal-title'>
